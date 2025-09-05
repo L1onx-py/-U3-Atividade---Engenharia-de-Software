@@ -3,7 +3,6 @@ public class GabrielNunes {
 
     public GabrielNunes(String frase) {
         this.frase = frase;
-
         System.out.print(frase);
     }
 
@@ -14,4 +13,6 @@ public class GabrielNunes {
     public void setFrase(String frase) {
         this.frase = frase;
     }
+
+
 }
